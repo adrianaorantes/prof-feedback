@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web-studio-sleep-app",
+  "private_key_id": "a1b962f7d8c019367ff28e2c0f05c96a037bcb53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDnB9/OugFa6CX1\nXYvQO+7PVVEajpFM1kveKl3gaR3nBzNzGhBOhFSLGo0lRpPxzrmW7tpkLuQ0hd8Y\nOaLwWe1skJs+PeO+ixf5jw8DIeYbAyqvudBgyA1dHv+sMXscjgAPgAjjh10VqTa6\nvI5E5D8iLCHqDsDmcaPcPQjdBN4xCwJ/wfOhwZfe0De4R8R0nTPqulSJ7Oy7cQG7\nG7kMKutcK+uWJUo+aIDjxERiy7G3x7J0AudVa+456XuW/OBDWTtPdzPet3wZSuwy\nQizvju4pc9CTXYR68xdwDVDGjBtegT9Co2PhJxWluChEnPS3x7SVfGq8WHGqG0/n\nF6EW66NVAgMBAAECggEAEA8ckAae7H5BkTYw70cTOQdBrXpmgDRPLsC8KMq1wObf\nvSr9IjARnl+4mvQ2eXL4tJSiyp71zu7VTJ5JBLMDjW3Z1LBBoe+SOY8nqHyVPaBx\nOajNYsTVJPlwJTyFRb1bJLiuJX61yjkqbD2KGCDTgKEXtGjVIM+aZ8c4VACwHzF2\najgFSgAwegbSxfQ94zzHQYxjbjR1eBUPHmlkUSs24WnoINBlXmVjPhm7EBG0UBq1\nCIWyYpSBGI7VtV4LaGlhd5vcb9rZV85kXz7uW58jjkWzQuff2ey187FHHUy2w7wo\nyLSymRX73VZcIRmbEX6G3AdiVc+B+1YnsOY62YRvIQKBgQDzmnOl6FvryIXt5nRu\nsOQh7v28lv9wkoMfTN5BwGXdkSrUpzQgDW5s1rpkVpi8OtjxO6rV25MIyZoirYdk\nH0KP5IMmbvBVoSsze7fY5Mk784LPaYlGnzwSqnkuGEr8EKChQUQ9KAizwuQ9iC+m\n+CpMx9wpV+KcuJyoM5hF8nL8JQKBgQDyyaIQIeT8LpsqVZqWDcBnd4cnC9tS8B0b\nE+Brxb2wgDEFsmr1fcg5j/K9zrvi+3TUid8HF5+J3TioRvRcDj2B+VXGQKRFB/Gh\nhkd6QJR1aW40+FAcYHlZxfy6CiwZ9+4hmG1S2VemD8WWwPABdQJ0KcX/oeQgtDvP\nAc+PwYXLcQKBgCrbf4Eu0g03aCikpNNcl6ZIr6dgQWyCukLleSzENqe2hHyJNih1\ndHn9hSll+tUS3VwDjVi2mrWvEkkLkohQ35sFLvWyCuJlyn3yRDQKfETp4JexD4+3\nMBBwoYU0jOyv2DLGksTXqEBIB3Oz4/5SJs7/UoKLjbjY2ebVvPKBZy1pAoGAS2oQ\nWhx9KUw8zHCcvQF2g20gYSOQs/l7wP5ylmds3ZdkItXh3XF9sUuiZg0CVaYwCxjs\nWyKeXs+Fmte3baTKvEW7vAI2RG8MQlUYfMP0mWfvYKrFD5tz9kvGje889bAKmwri\n4no6fI2nnYU+x+UVpwmWxCoAV5xEe6+fTpMZQTECgYBv0N8To7eX8bukqVF+zg/R\nAnGrzpUqQgD1wdjUdXTuKTaW52W6GdOqFICU5KMluF+bIMmBXW5/vXuTa+fE7dv7\nDUuwwa4rXFnEZXroCCs8/HmYsDHgQroIYQ+9bWKsmObAWw8BDM6Opc8viIfjfPtn\n2O8xZFXPX+kyrOG4Pq/Ufg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dqmcj@web-studio-sleep-app.iam.gserviceaccount.com",
+  "client_id": "101247619265382005586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dqmcj%40web-studio-sleep-app.iam.gserviceaccount.com"
+}
