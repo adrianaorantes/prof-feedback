@@ -4,7 +4,7 @@ $(document).ready(function(){
 });
 
 function displayItems() {
-    var count = 0;
+    var count = 0;https://github.com/adrianaorantes/prof-feedback/blob/main/dashboard.js
     items.forEach(function (entry){
 
         var row1=$('#row1')
