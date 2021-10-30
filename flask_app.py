@@ -19,12 +19,13 @@ def incoming_sms():
 
     if 'question_id' in session and session['question_id'] is not None:
         q = session['question_id']
+        print(q)
         if q == 1:
             session['feedback'] = body
             session['question_id'] = None
             resp.message('Thank you')
         if q == 0:
-            resp.message('What feedback would you like to send to ' + body + '?')
+            resp.message('What feedback would you like to send ?')
             session['professor'] = body
         if session['question_id'] is not None: session['question_id'] += 1
         # store data
